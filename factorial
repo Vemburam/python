@@ -1,9 +1,5 @@
 i=int(input("enter i="))
-<<<<<<< HEAD
-fact=16
-=======
 fact=1
->>>>>>> 47b63308a93204b38eefd9d26c14876308b543f4
 while(i>0):
     fact=fact*i
     i=i-1
