@@ -1,0 +1,20 @@
+class college:
+    Department="EEE"
+    academicyear="2020-2024"
+    def __init__(self,name,regno):
+        self.name=name
+        self.regno=regno
+    def display(self):
+        print("Name:",self.name)
+        print("regno:",self.regno)
+        print("department:",self.Department)
+        print("academic year:",self.academicyear)
+        print()
+print("studentlist")
+print()
+s1=college("ARUN","950620105001")
+s2=college("RAHUL","950620105005")
+s3=college("NAGU","950620105004")
+s4=college("VEMBU RAM","950620105011")
+
+s1.display(),s2.display(),s3.display(),s4.display()
