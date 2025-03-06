@@ -1,0 +1,56 @@
+class laptop:
+    name=""
+    price=""
+    processor=""
+    RAM=""
+    def object(self):
+        print("...welcome to avalon....")
+
+HP=laptop()
+DELL=laptop()
+LENOVO=laptop()
+
+HP.name="HP Laptop"
+DELL.name="DELL Laptop"
+LENOVO.name="LENOVO Laptop"
+
+HP.price="11200"
+DELL.price="15000"
+LENOVO.price="13000"
+
+
+HP.processor="i5"
+DELL.processor="i3"
+LENOVO.processor="i3"
+
+HP.RAM="8 gb"
+DELL.RAM="6 gb"
+LENOVO.RAM="16 gb"
+
+print()
+HP.object()
+print()
+
+print("name:",HP.name)
+print("price of laptop:",HP.price)
+print("processor of laptop:",HP.processor)
+print("RAM of laptop:",HP.RAM)
+
+print()
+DELL.object()
+print()
+
+print("name:",DELL.name)
+print("price of laptop:",DELL.price)
+print("processor of laptop:",DELL.processor)
+print("RAM of laptop:",DELL.RAM)
+
+print()
+LENOVO.object()
+print()
+
+print("name:",LENOVO.name)
+print("price of laptop:",LENOVO.price)
+print("processor of laptop:",LENOVO.processor)
+print("RAM of laptop:",LENOVO.RAM)
+
