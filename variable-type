@@ -1,6 +1,9 @@
+#types of variable
 class college:
+#class variable
     Department="EEE"
     academicyear="2020-2024"
+#instance variable
     def __init__(self,name,regno):
         self.name=name
         self.regno=regno
