@@ -1,0 +1,10 @@
+#encapsulation
+
+class ram():
+    def __init__(self):
+        self._companyname="TIMKEN"
+class venkat(ram):
+    pass
+a1=venkat()
+print(a1._companyname)
+

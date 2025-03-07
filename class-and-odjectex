@@ -54,3 +54,24 @@ print("price of laptop:",LENOVO.price)
 print("processor of laptop:",LENOVO.processor)
 print("RAM of laptop:",LENOVO.RAM)
 
+
+#..welcome to avalon....
+
+#name: HP Laptop
+#price of laptop: 11200
+#processor of laptop: i5
+#RAM of laptop: 8 gb
+
+#...welcome to avalon....
+
+#name: DELL Laptop
+#price of laptop: 15000
+#processor of laptop: i3
+#RAM of laptop: 6 gb
+
+#...welcome to avalon....
+
+#name: LENOVO Laptop
+#price of laptop: 13000
+#processor of laptop: i3
+#RAM of laptop: 16 gb
