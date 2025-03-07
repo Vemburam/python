@@ -21,3 +21,15 @@ s3=college("NAGU","950620105004")
 s4=college("VEMBU RAM","950620105011")
 
 s1.display(),s2.display(),s3.display(),s4.display()
+
+#output:
+
+#enter vlaue a:2
+#enter value b:3
+
+#addition: 5
+#subtration -1
+#multiplication 6
+#division: 0.6666666666666666
+
+
